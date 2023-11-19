@@ -208,7 +208,7 @@ footer{
     align-items: end;
     justify-content: center;
     flex-direction: column;
-    height: 100svh;
+    height: 100vh;
   }
   #nav-resp ul{
     background-color: var(--clr-OffWhite);
